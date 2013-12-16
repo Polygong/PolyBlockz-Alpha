@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+    <comment>German (de_DE) locale file</comment>
+
+    <entry key="itemGroup.BlokkerBlocks">Blokker Blöcke</entry>
+    <entry key="itemGroup.BlokkerDeco">Blokker Dekoration</entry>
+    <entry key="itemGroup.BlokkerStuff">Blokker Allerlei</entry>
+
+
+
+    <entry key="item.blokker:blokkhouse_parts.name">Blockhütten Segmente</entry>
+    <entry key="tile.BlokkHouse.name">Blockhütte</entry>
+
+
+    <entry key="tile.MithrilOre.name">Mithril Erz</entry>
+    <entry key="tile.BoneOre.name">Üerreste</entry>
+    
+
+    <entry key="tile.Blocksteelberries.name">Stahlbeeren</entry>
+    <entry key="tile.BlokkCoal.name">Kohle Block</entry>
+    <entry key="tile.GlowBlokker.name">Stablampe</entry>
+    <entry key="tile.Ornament.name">Ornament</entry>
+    <entry key="tile.CorrugatedSheetdark.name">Riffelblech dunkel</entry>
+    <entry key="tile.CorrugatedSheetlight.name">Riffelblech hell</entry>
+    <entry key="tile.Reet.name">Reet</entry>
+    <entry key="tile.RaspberryBush.name">Himbeerbusch</entry>
+    <entry key="tile.SewerageWater.name">Abwasser</entry>
+    <entry key="tile.Block_SewerageWater.name">Abwasser</entry>
+    <entry key="tile.Brickstone_black.name">Zeigelstein schwarz</entry>
+    <entry key="tile.Brickstone_white.name">Ziegelstein weiß</entry>
+    <entry key="tile.Sewerage_stone.name">Kanalgemäuer</entry>
+    <entry key="tile.Sewerage_H.name">Kanal Luftschacht</entry>
+    <entry key="tile.Sewerage_I.name">Kanalrohr horizontal</entry>
+    <entry key="tile.Sewerage_L.name">Kanalrohr vertikal</entry>
+    <entry key="tile.Sewerage_O.name">Kanalöffnung</entry>
+    <entry key="tile.Sewerage_X.name">Kanalrohr Verbindung</entry>
+    <entry key="tile.AppleBush.name">Apfel Strauch</entry>
+   
+
+    <entry key="tile.Headstone.name">Kopfsteinpflaster</entry>
+    <entry key="tile.Dirtwall.name">Erdmauer</entry>
+    <entry key="tile.Dirtbrick.name">Erdziegel</entry>
+    <entry key="tile.Dirtbrickfine.name">Erdziegel fein</entry>
+    <entry key="tile.darkbluesmoothBricks.name">glatte Fliesen blau</entry>
+    <entry key="tile.darkredsmoothBricks.name">glatte Fliesen dunkelrote</entry>
+    <entry key="tile.redsmoothBricks.name">Fliesen rot</entry>
+    <entry key="tile.Roof.name">Dachziegel</entry>
+    
+
+    <entry key="tile.BrickGhostblock.name">Geisterblock Ziegelstein</entry>
+    <entry key="tile.CleanstoneGhostblock.name">Geisterblock Glattstein</entry>
+    <entry key="tile.CobblestoneGhoststone.name">Geisterblock Pflasterstein</entry>
+    <entry key="tile.DirtGhostblock.name">Geisterblock Erde</entry>
+    <entry key="tile.SandstoneGhostblock.name">Geisterblock Sandstein</entry>
+    <entry key="tile.BrickstoneGhostblock.name">Geisterblock Steinziegel</entry>
+    <entry key="tile.BrickstoneGhostblockmossy.name">Geisterblock Steinziegel bemoost</entry>
+    <entry key="tile.CobblestoneGhostblockmossy.name">Geisterblock Pflasterstein bemoost</entry>
+    <entry key="tile.QuartzGhostblock.name">Geisterblock Quartz</entry>
+    <entry key="tile.OakGhostblock.name">Geisterblock Eichenbretter</entry>
+    <entry key="tile.BirchGhostblock.name">Geisterblock Birkenbretter</entry>
+    <entry key="tile.JungleGhostblock.name">Geisterblock Junglebretter</entry>
+    <entry key="tile.SpruceGhostblock.name">Geisterblock Fichtenbretter</entry>
+    <entry key="tile.OakParquetGhostblock.name">Geisterblock Eichenparkett</entry>
+    <entry key="tile.BirchParquetGhostblock.name">Geisterblock Birkenparkett</entry>
+    <entry key="tile.SpruceParquetGhostblock.name">Geisterblock Fichtenparkett</entry>
+    <entry key="tile.JungleParquetGhostblock.name">Geisterblock Jungelparkett</entry>
+    <entry key="tile.blackPlanksGhostblock.name">Geisterblock schwarzes Eichenparkett</entry>
+    <entry key="tile.HeadstoneGhostblock.name">Geisterblock Kopfsteinpflaster</entry>
+    <entry key="tile.DirtwallGhostblock.name">Geisterblock Erdwall</entry>
+    <entry key="tile.DirtbrickGhostblock.name">Geisterblock Erdziegel</entry>
+    <entry key="tile.DirtbrickfineGhostblock.name">Geisterblock Erziegel fein</entry>
+    <entry key="tile.Brickstone_blackGhostblock.name">Geisterblock Ziegelstein schwarz</entry>
+    <entry key="tile.Brickstone_whiteGhostblock.name">Geisterblock Ziegelstein weiß</entry>
+    <entry key="tile.Sewerage_stoneGhostblock.name">Geisterblock Kanalgemäuer</entry>
+
+    <entry key="tile.OakParquet.name">Eichenparkett</entry>
+    <entry key="tile.BirchParquet.name">Birkenparkett</entry>
+    <entry key="tile.SpruceParquet.name">Fichtenparkett</entry>
+    <entry key="tile.JungelParquet.name">Jungleparkett</entry>
+    <entry key="tile.blackPlanks.name">Bretter schwarz</entry>
+    <entry key="tile.greenPlanks.name">grüne Bretter</entry>
+    <entry key="tile.fadedWreck.name">Wrackholz verblasst</entry>
+    <entry key="tile.coloredWreck.name">Wrackholz farbig</entry>
+    
+
+    <entry key="tile.XFramework.name">X Fachwerk</entry>
+    <entry key="tile.LFramework.name">L Fachwerk</entry>
+    <entry key="tile.RFramework.name">R Fachwerk</entry>
+    <entry key="tile.PFramework.name">P Fachwerk</entry>
+    <entry key="tile.MFramework.name">M Fachwerk</entry>
+    <entry key="tile.HFramework.name">H Fachwerk</entry>
+    <entry key="tile.OFramework.name">O Fachwerk</entry>
+    
+
+    <entry key="tile.Woolwhite.name">weiße Musterwolle</entry>
+    <entry key="tile.Woolorange.name">orangene Musterwolle</entry>
+    <entry key="tile.Woolmagenter.name">pinke Musterwolle</entry>
+    <entry key="tile.Woollightblue.name">hellblaue Musterwolle</entry>
+    <entry key="tile.Woolyellow.name">gelbe Musterwolle</entry>
+    <entry key="tile.Woollightgreen.name">hellgrüne Musterwolle</entry>
+    <entry key="tile.Woolrosa.name">rosa Musterwolle</entry>
+    <entry key="tile.Wooldarkgrey.name">dunkelgraue Musterwolle</entry>
+    <entry key="tile.Woolligthgrey.name">hellgraue Musterwolle</entry>
+    <entry key="tile.Woolcyan.name">türkise Musterwolle</entry>
+    <entry key="tile.Woolpurple.name">lila Musterwolle</entry>
+    <entry key="tile.Wooldarkblue.name">dunkelblaue Musterwolle</entry>
+    <entry key="tile.Woolbrown.name">braune Musterwolle</entry>
+    <entry key="tile.Wooldarkgreen.name">dunkelgrüne Musterwolle</entry>
+    <entry key="tile.Woolred.name">rote Musterwolle</entry>
+    <entry key="tile.Woolblack.name">schwarze Musterwolle</entry>
+    
+
+    <entry key="tile.HeadStoneStair.name">Kopfsteinpflaster Treppe</entry>
+    <entry key="tile.DirtwallStair.name">Erdmauer Treppe</entry>
+    <entry key="tile.DirtbrickStair.name">Erdziegel Treppe</entry>
+    <entry key="tile.DirtbrickfineStair.name">feine Erdziegel Treppe</entry>
+    <entry key="tile.RoofStair.name">Dachziegel Treppe</entry>
+    <entry key="tile.ReetStair.name">Schilf Treppe</entry>
+    <entry key="tile.oakParquetStair.name">Eichenparkett Treppe</entry>
+    <entry key="tile.birchParquetStair.name">Birkenparkett Treppe</entry>
+    <entry key="tile.jungleParquetStair.name">Tropenparkett Treppe</entry>
+    <entry key="tile.spruceParquetStair.name">Fichtenparkett Treppe</entry>
+    <entry key="tile.blackPlankStair.name">schwarze Bretter Treppe</entry>
+    <entry key="tile.greenPlankStair.name">grüne Bretter Treppe</entry>
+    <entry key="tile.fadedWereckwoodStair.name">verblasste Wrackholz Treppe</entry>
+    <entry key="tile.coloredWereckwoodStair.name">farbige Wrackholz Treppe</entry>
+    <entry key="tile.darkCorrugatedSheetStair.name">dunkle Riffelblech Treppe</entry>
+    <entry key="tile.lightCorrugatedSheetStair.name">helle Riffelblech Treppe</entry>
+    <entry key="tile.mossyBrickstoneStair.name">bemooste Steinziegel Treppe</entry>
+    <entry key="tile.mossyCobblestoneStair.name">bemooste Pflasterstein Treppe</entry>
+    <entry key="tile.CleanstoneStair.name">Glattstein Treppe</entry>
+    <entry key="tile.DirtStair.name">Erde Treppe</entry>
+    <entry key="tile.SandStair.name">Sand Treppe</entry>
+    <entry key="tile.GravelStair.name">Kies Treppe</entry>
+    <entry key="tile.GlassStair.name">Glas Treppe</entry>
+    <entry key="tile.SnowStair.name">Schnee Treppe</entry>
+    <entry key="tile.CoalStair.name">Kohle Treppe</entry>
+    <entry key="tile.IceStair.name">Eis Treppe</entry>
+    <entry key="tile.SteelStair.name">Eisen Treppe</entry>
+    <entry key="tile.GoldStair.name">Gold Treppe</entry>
+    <entry key="tile.RedstoneStair.name">Redstone Treppe</entry>
+    <entry key="tile.DiamondStair.name">Diamont Treppe</entry>
+    <entry key="tile.EmeraldStair.name">Smaragd Treppe</entry>
+    <entry key="tile.ObsidianStair.name">Obsidian Treppe</entry>
+    <entry key="tile.Sewerage_stoneStair.name">Kanalgemäuer Treppe</entry>
+    <entry key="tile.Brickstone_blackStair.name">Zeigelstein Treppen schwarz</entry>
+    <entry key="tile.Brickstone_whiteStair.name">Ziegelstein Treppen weiß</entry>
+
+
+
+    <entry key="tile.brickLight.name">Ziegellampe</entry>
+    <entry key="tile.dirtbrickfindeLight.name">feine Erdziegellampe</entry>
+    <entry key="tile.netherbrickLight.name">Netherziegellampe</entry>
+    <entry key="tile.quartzLigth.name">Quartzlampe</entry>
+    <entry key="tile.sandstoneLight.name">Sandsteinlampe</entry>
+    <entry key="tile.cleanstoneLight.name">Glattsteinlampe</entry>
+    <entry key="tile.cobblestoneLight.name">Pflastersteinlampe</entry>
+    <entry key="tile.stonebricksLigth.name">Steinziegellampe</entry>
+    <entry key="tile.brickmossLight.name">bemooste Steinziegellampe</entry>
+    <entry key="tile.cobblmossLight.name">bemooste Pflastersteinlampe</entry>
+    <entry key="tile.oakLight.name">Eichenlampe</entry>
+    <entry key="tile.birchLight.name">Birkenlampe</entry>
+    <entry key="tile.jungleLight.name">Tropenlampe</entry>
+    <entry key="tile.spruceLight.name">Fichtenlampe</entry>
+    <entry key="tile.blackwoodLight.name">schwaze Holzlampe</entry>
+    
+    
+    
+    <entry key="tile.Stonebrickfence.name">Stonebrick Fence</entry>
+    <entry key="tile.mossyStonebrickfence.name">mossy Stonebrick Fence</entry>
+    <entry key="tile.Cobblestonefence.name">Cobblestone Fence</entry>
+    <entry key="tile.mossyCobblestonefence.name">mossy Cobblestone Fence</entry>
+    <entry key="tile.Dirtbrickfence.name">Dirtbrick Fence</entry>
+    <entry key="tile.fadedWereckwoodfence.name">faded Wooden Fence</entry>
+    <entry key="tile.coloredWereckwoodfence.name">colored Wooden Wreck Fence</entry>
+    
+    
+    <entry key="tile.Glow_Brick.name">Glow Ziegel</entry>                    
+    <entry key="tile.Glow_Cleanstone.name">Glow Glattstein</entry> 
+    <entry key="tile.Glow_Cobble.name">Glow Pflasterstein</entry>                     
+    <entry key="tile.Glow_Sandstone.name">Glow Sandstein</entry> 
+    <entry key="tile.Glow_Brickstone.name">Glow Ziegelstein</entry>                 
+    <entry key="tile.Glow_Brickstonemossy.name">Glow Ziegelstein bemoost</entry> 
+    <entry key="tile.Glow_Cobblemossy.name">Glow Pflasterstein bemoost</entry>                
+    <entry key="tile.Glow_Quartz.name">Glow Quartz</entry> 
+    <entry key="tile.Glow_Oak.name">Glow Eichenholz</entry>                        
+    <entry key="tile.Glow_Birch.name">Glow Birkenholz</entry> 
+    <entry key="tile.Glow_Jungle.name">Glow Jungelholz</entry>                     
+    <entry key="tile.Glow_Spruce.name">Glow Fichtenholz</entry> 
+    <entry key="tile.Glow_Headstone.name">Glow Kopfsteinpflaster</entry>                  
+    <entry key="tile.Glow_Dirtbrick.name">Glow Erdziegel</entry> 
+    <entry key="tile.Glow_Dirtbrick_fine.name">Glow Erdziegel fein</entry>             
+    <entry key="tile.Glow_Blackplank.name">Glow Parkett schwarz</entry> 
+    <entry key="tile.Glow_Greenplank.name">Glow Parkett grün</entry>                 
+    <entry key="tile.Glow_Brickstone_black.name">Glow Ziegelstein schwarz</entry> 
+    <entry key="tile.Glow_Brickstone_white.name">Glow Ziegelstein weiß</entry>           
+    <entry key="tile.Glow_Sewerage.name">Glow Kanlbeleuchtung</entry> 
+    <entry key="tile.Glow_Stoneplate_blue.name">Glow Fliesen blau</entry>            
+    <entry key="tile.Glow_Stoneplate_darkred.name">Glow Fliesen dunkelrot</entry> 
+    <entry key="tile.Glow_Stoneplate_red.name">Glow Fliesen rot</entry>         
+    
+    
+    
+    
+    
+    
+
+    <entry key="item.blokker:mithril_flake.name">Mithril Splitter</entry>
+    <entry key="item.blokker:mithril_ingot.name">Mithril Barren</entry>
+    <entry key="item.blokker:mithril_vermit.name">Mithrilvermit</entry>
+    <entry key="item.blokker:raw_diamond.name">roher Diamant</entry>
+    <entry key="item.blokker:steel_berries.name">Stahlbeeren</entry>
+    <entry key="item.blokker:coal_ingot.name">Kohle Barren</entry>
+    <entry key="item.grenade.name">Granate</entry>
+    <entry key="item.blokker:emerald_ingot.name">Smaragd Barren</entry> 
+    <entry key="item.blokker:redstone_ingot.name">Redstone Barren</entry>               
+    <entry key="item.blokker:seweragebucket.name">Abwasser Eimer</entry> 
+    <entry key="item.Raspberry.name">Himbeeren</entry>                    
+    <entry key="item.RaspberryPie.name">Himbeer Kuchen</entry> 
+    <entry key="item.ApplePie.name">Apfel Kuchen</entry>
+    <entry key="item.blokker:emerald_vermit.name">Smaragdvermit</entry>
+    <entry key="item.blokker:redstone_vermit.name">Redstonevermit</entry>
+    
+    
+ 
+    <entry key="item.blokker:whiteColorstring.name">weißer Musterfaden</entry>  
+    <entry key="item.blokker:orangeColorstring.name">orangener Musterfaden</entry>
+    <entry key="item.blokker:magentaColorstring.name">pinker Musterfaden</entry>
+    <entry key="item.blokker:lightblueColorstring.name">hellblauer Musterfaden</entry>
+    <entry key="item.blokker:yellowColorstring.name">gelber Musterfaden</entry>
+    <entry key="item.blokker:lightgreenColorstring.name">hellgrüner Musterfaden</entry>
+    <entry key="item.blokker:rosaColorstring.name">rosa Musterfaden</entry>
+    <entry key="item.blokker:darkgreyColorstring.name">dunkelgrauer Musterfaden</entry>
+    <entry key="item.blokker:lightgrayColorstring.name">hellgrauer Musterfaden</entry>
+    <entry key="item.blokker:cyanColorstring.name">türkiser Musterfaden</entry>
+    <entry key="item.blokker:purpleColorstring.name">lila Musterfaden</entry>
+    <entry key="item.blokker:darkblueColorstring.name">dunkelblauer Musterfaden</entry>
+    <entry key="item.blokker:brownColorstring.name">brauner Musterfaden</entry>
+    <entry key="item.blokker:darkgreenColorstring.name">dunkelgrüner Musterfaden</entry>
+    <entry key="item.blokker:redColorstring.name">roter Musterfaden</entry>
+    <entry key="item.blokker:blackColorstring.name">schwarzer Musterfaden</entry>
+    
+
+    <entry key="item.blokker:mithril_axe.name">Mithril Kriegsaxt</entry>
+    <entry key="item.blokker:mithril_hoe.name">Mithril Feldhacke</entry>
+    <entry key="item.blokker:mithril_shovel.name">Mithril Spaten</entry>
+    <entry key="item.blokker:mithril_sword.name">Mithril Schwert</entry>
+    <entry key="item.blokker:mithril_pickaxe.name">Mithril Spitzhacke</entry>
+    
+    <entry key="item.blokker:emerald_axe.name">Emerald Axt</entry>                  
+    <entry key="item.blokker:emerald_hoe.name">Emerald Feldhacke</entry>
+    <entry key="item.blokker:emerald_shovel.name">Emerald Spaten</entry>               
+    <entry key="item.blokker:emerald_sword.name">Emerald Schwert</entry>
+    <entry key="item.blokker:emerald_pickaxe.name">Emerald Spitzhacke</entry>
+                
+    <entry key="item.blokker:redstone_axe.name">Redstone Axt</entry>                 
+    <entry key="item.blokker:redstone_hoe.name">Redstone Feldhacke</entry>
+    <entry key="item.blokker:redstone_shovel.name">Redstone Spaten</entry>              
+    <entry key="item.blokker:redstone_sword.name">Redstone Schwert</entry>
+    <entry key="item.blokker:redstone_pickaxe.name">Redstone Spitzhacke</entry>
+  
+    <entry key="item.blokker:cobble_mace.name">Steinkeule</entry>
+  
+  
+  
+  
+    <entry key="item.blokker:mithril_helm.name">Mithril Helm</entry>
+    <entry key="item.blokker:mithril_plate.name">Mithril Brustpanzer</entry>
+    <entry key="item.blokker:mithril_legs.name">Mithril Beinschutz</entry>
+    <entry key="item.blokker:mithril_boots.name">Mithril Stiefel</entry>
+
+
+    <entry key="item.blokker:emerald_helm.name">Emerald Kampfhelm</entry>                 
+    <entry key="item.blokker:emerald_plate.name">Emerald Brustpanzer</entry>
+    <entry key="item.blokker:emerald_legs.name">Emerald Beinschutz</entry>                 
+    <entry key="item.blokker:emerald_boots.name">Emerald Stiefel</entry>
+                
+    <entry key="item.blokker:redstone_helm.name">Redstone Kampfhelm</entry>                
+    <entry key="item.blokker:redstone_plate.name">Redstone Plattenrüstug</entry>
+    <entry key="item.blokker:redstone_legs.name">Redstone Beinschutz</entry>                
+    <entry key="item.blokker:redstone_boots.name">Redstone Stiefel</entry>
+    
+    <entry key="item.blokker:cobble_helm.name">Stein Helm</entry>                
+    <entry key="item.blokker:cobble_plate.name">Stein Rüstug</entry>
+    <entry key="item.blokker:cobble_legs.name">Stein Beinschutz</entry>                
+    <entry key="item.blokker:cobble_boots.name">Stein Schuhe</entry>
+    
+    
+</properties>
