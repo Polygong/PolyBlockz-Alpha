@@ -1,14 +1,30 @@
 public static Item0;
 
 Item0 = new Item_Item0(ID_Helper.Item0ID)
-                                .setUnlocalizedName("polyblockz:Item0")
-                                .setCreativeTab(PolyBlockz.tabPolyBlockzItems);
-                LanguageRegistry.addName(Item0, "Item0");
+.setUnlocalizedName("polyblockz:Item0")
+.setCreativeTab(PolyBlockz.tabPolyBlockzItems);
+LanguageRegistry.addName(Item0, "Item0");
                 
        
 public static int  Item0ID;
-
 Item0ID = config.get("Items IDs:", "Item0 ID", 13333).getInt();
 
 
-/* * * */
+/*
+*
+*
+*
+*/
+
+
+public static Block Block0;
+
+Block0 = new Block_Block0(iD_Helper.Block0ID)
+.setHardness(1.0F)
+.setResistance(1.0F).setUnlocalizedName("Block0")
+.setCreativeTab(PolyBlockz.tabPolyBlockzBlocks);
+GameRegistry.registerBlock(Block0, "Block0");
+
+
+public satic int Block0ID;
+Block0ID = config.get("Block IDs:", "Block0 ID", 3333).getInt();
