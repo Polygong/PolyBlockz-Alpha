@@ -1,0 +1,14 @@
+public static Item0;
+
+Item0 = new Item_Item0(ID_Helper.Item0ID)
+                                .setUnlocalizedName("polyblockz:Item0")
+                                .setCreativeTab(PolyBlockz.tabPolyBlockzItems);
+                LanguageRegistry.addName(Item0, "Item0");
+                
+       
+public static int  Item0ID;
+
+Item0ID = config.get("Items IDs:", "Item0 ID", 13333).getInt();
+
+
+/* * * */
