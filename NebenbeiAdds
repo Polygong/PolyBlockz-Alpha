@@ -28,3 +28,271 @@ GameRegistry.registerBlock(Block0, "Block0");
 
 public satic int Block0ID;
 Block0ID = config.get("Block IDs:", "Block0 ID", 3333).getInt();
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+/* Items für Rezept abgleich! */
+
+        public static Item Mithril_Ingot;
+        public static Item Mithrilvermit;
+        public static Item Diamondform;
+        public static Item grenade;
+        public static Item Emerald_Ingot;
+        public static Item Redstone_Ingot;
+        public static Item Polyamid_Ingot;
+        
+/* Items für Rezept abgleich! */    
+
+        public static Item SewerageWaterBucket;
+        public static Item RaspberryPie;
+        public static Item ApplePie;
+        public static Item Emeraldvermit;
+        public static Item Redstonevermit;
+        public static Item BlokkHouseParts;
+        public static Item AppleDiamond;
+/* Items für Rezept abgleich! */
+
+        public static Item MithrilAxe;
+        public static Item MithrilHoe;
+        public static Item MithrilShovel;
+        public static Item MithrilSword;
+        public static Item MithrilPickaxe;
+        
+/* Items für Rezept abgleich! */     
+
+        public static Item EmeraldAxe;
+        public static Item EmeraldHoe;
+        public static Item EmeraldShovel;
+        public static Item EmeraldSword;
+        public static Item EmeraldPickaxe;
+        
+/* Items für Rezept abgleich! */        
+
+        public static Item RedstoneAxe;
+        public static Item RedstoneHoe;
+        public static Item RedstoneShovel;
+        public static Item RedstoneSword;
+        public static Item RedstonePickaxe;
+        
+/* Items für Rezept abgleich! */        
+
+        public static Item CobbleMace;
+        public static Item CobbleClub;
+        
+/* Items für Rezept abgleich! */
+
+        public static Item MithrilHelm;
+        public static Item MithrilPlate;
+        public static Item MithrilLegs;
+        public static Item MithrilBoots;
+        
+/* Items für Rezept abgleich! */     
+
+        public static Item EmeraldHelm;
+        public static Item EmeraldPlate;
+        public static Item EmeraldLegs;
+        public static Item EmeraldBoots;
+        
+/* Items für Rezept abgleich! */     
+
+        public static Item RedstoneHelm;
+        public static Item RedstonePlate;
+        public static Item RedstoneLegs;
+        public static Item RedstoneBoots;
+        
+/* Items für Rezept abgleich! */   
+
+        public static Item CobbleHelm;
+        public static Item CobblePlate;
+        public static Item CobbleLegs;
+        public static Item CobbleBoots;
+        
+/* Items für Rezept abgleich! */   
+   /* Items für Rezept abgleich! */
+   
+   
+   /* Blöcke für Rezept abgleich! */     
+/* Blöcke für Rezept abgleich! */
+
+        public static Block GlowBlokker;
+        public static Block Ornament;
+        public static Block CorrugatedSheetdark;
+        public static Block CorrugatedSheetlight;
+        public static Block Reet;
+        public static Block Block_SewerageWater;
+        
+ /* Blöcke für Rezept abgleich! */
+ 
+        public static Block Headstone;
+        public static Block Dirtwall;
+        public static Block Dirtbrick;
+        public static Block Dirtbrickfine;
+        public static Block darkbluesmoothBricks;
+        public static Block darkredsmoothBricks;
+        public static Block redsmoothBricks;
+        public static Block Roof;
+        public static Block Brickstone_black;
+        public static Block Brickstone_white;
+        public static Block Sewerage_stone;
+        public static Block Sewerage_H;
+        public static Block Sewerage_I;
+        public static Block Sewerage_L;
+        public static Block Sewerage_O;
+        public static Block Sewerage_X;
+        public static Block Polyamid_Block;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block BrickGhostblock;
+        public static Block CleanstoneGhostblock;
+        public static Block CobblestoneGhoststone;
+        public static Block DirtGhostblock;
+        public static Block SandstoneGhostblock;
+        public static Block BrickstoneGhostblock;
+        public static Block BrickstoneGhostblockmossy;
+        public static Block CobblestoneGhostblockmossy;
+        public static Block QuartzGhostblock;
+        public static Block OakGhostblock;
+        public static Block BirchGhostblock;
+        public static Block JungleGhostblock;
+        public static Block SpruceGhostblock;
+        public static Block OakParquetGhostblock;
+        public static Block BirchParquetGhostblock;
+        public static Block SpruceParquetGhostblock;
+        public static Block JungelParquetGhostblock;
+        public static Block blackPlanksGhostblock;
+        public static Block HeadstoneGhostblock;
+        public static Block DirtwallGhostblock;
+        public static Block DirtbrickGhostblock;
+        public static Block DirtbrickfineGhostblock;
+        public static Block Brickstone_blackGhostblock;
+        public static Block Brickstone_whiteGhostblock;
+        public static Block Sewerage_stoneGhostblock;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block OakParquet;
+        public static Block BirchParquet;
+        public static Block SpruceParquet;
+        public static Block JungelParquet;
+        public static Block blackPlanks;
+        public static Block greenPlanks;
+        public static Block fadedWreck;
+        public static Block coloredWreck;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block XFramework;
+        public static Block LFramework;
+        public static Block RFramework;
+        public static Block PFramework;
+        public static Block MFramework;
+        public static Block HFramework;
+        public static Block OFramework;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block Woolwhite;
+        public static Block Woolorange;
+        public static Block Woolmagenter;
+        public static Block Woollightblue;
+        public static Block Woolyellow;
+        public static Block Woollightgreen;
+        public static Block Woolrosa;
+        public static Block Wooldarkgrey;
+        public static Block Woolligthgrey;
+        public static Block Woolcyan;
+        public static Block Woolpurple;
+        public static Block Wooldarkblue;
+        public static Block Woolbrown;
+        public static Block Wooldarkgreen;
+        public static Block Woolred;
+        public static Block Woolblack;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block Glow_Brick;
+        public static Block Glow_Cleanstone;
+        public static Block Glow_Cobble;
+        public static Block Glow_Sandstone;
+        public static Block Glow_Brickstone;
+        public static Block Glow_Brickstonemossy;
+        public static Block Glow_Cobblemossy;
+        public static Block Glow_Quartz;
+        public static Block Glow_Oak;
+        public static Block Glow_Birch;
+        public static Block Glow_Jungle;
+        public static Block Glow_Spruce;
+        public static Block Glow_Headstone;
+        public static Block Glow_Dirtbrick;
+        public static Block Glow_Dirtbrick_fine;
+        public static Block Glow_Blackplank;
+        public static Block Glow_Greenplank;
+        public static Block Glow_Brickstone_black;
+        public static Block Glow_Brickstone_white;
+        public static Block Glow_Sewerage;
+        public static Block Glow_Stoneplate_blue;
+        public static Block Glow_Stoneplate_darkred;
+        public static Block Glow_Stoneplate_red;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block HeadStoneStair;
+        public static Block DirtwallStair;
+        public static Block DirtbrickStair;
+        public static Block DirtbrickfineStair;
+        public static Block RoofStair;
+        public static Block ReetStair;
+        public static Block oakParquetStair;
+        public static Block birchParquetStair;
+        public static Block jungleParquetStair;
+        public static Block spruceParquetStair;
+        public static Block blackPlankStair;
+        public static Block greenPlankStair;
+        public static Block fadedWereckwoodStair;
+        public static Block coloredWereckwoodStair;
+        public static Block CorrugatedSheetdarkStair;
+        public static Block CorrugatedSheetlightStair;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block BrickMossyStair;
+        public static Block MossyStair;
+        public static Block cleanstoneStair;
+        public static Block dirtStair;
+        public static Block sandStair;
+        public static Block gravelStair;
+        public static Block glassStair;
+        public static Block blockSnowStair;
+        public static Block BlockCoalStair;
+        public static Block iceStair;
+        public static Block blockSteelStair;
+        public static Block blockGoldStair;
+        public static Block blockRedstoneStair;
+        public static Block blockDiamondStair;
+        public static Block blockEmeraldStair;
+        public static Block obsidianStair;
+        public static Block Sewerage_stoneStair;
+        public static Block Brickstone_blackStair;
+        public static Block Brickstone_whiteStair;
+        
+/* Blöcke für Rezept abgleich! */
+
+        public static Block blokklampIdlebrick;
+        public static Block blokklampIdledirtbrickfine;
+        public static Block blokklampIdlenetherBrick;
+        public static Block blokklampIdlequartzblock;
+        public static Block blokklampIdlesandstone;
+        public static Block blokklampIdlestone;
+        public static Block blokklampIdlestonebrick;
+        public static Block blokklampIdlestonebricksmooth;
+        public static Block blokklampIdlestonebricksmooth_mossy;
+        public static Block blokklampIdlestoneMoss;
+        public static Block blokklampIdlewood;
+        public static Block blokklampIdlewood_birch;
+        public static Block blokklampIdlewood_jungle;
+        public static Block blokklampIdlewood_spruce;
+        public static Block blokklampIdlewoodblack;
+        
+/* Blöcke für Rezept abgleich! */
