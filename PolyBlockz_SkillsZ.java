@@ -1,10 +1,10 @@
-package mods.polyblockz.common;
+package polyblockz_skills.common;
 
 
 @Mod
 (modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION_NUMBER)
 @NetworkMod
-(clientSideRequired = true, serverSideRequired = true, channels = { Reference.CHANNEL_NAME })
+(clientSideRequired = true, serverSideRequired = false, channels = { Reference.CHANNEL_NAME })
 
 public class PolyBlockz
 {
@@ -12,7 +12,33 @@ public class PolyBlockz
                         (CreativeTabs.getNextID(), "PolyBlockz_Skills");
                         
         /*
-         *
+         Skill System
+                -Skills
+                        --Unlocks
+                                ---level
+                                ---Block/item
+                -Players
+                        --Skills
+                                ---Level
+                                ---Exp
+        
+        Server
+                -Player data
+                
+        Client
+                -Own Data
+                -part of Player Data
+                
+        Packets
+                -Server to Client
+                        --1. Skills update(on get exp or join)
+                                ---Skill
+                                ---Level
+                                ---Exp
+                        --2. Simple skill update (on levelup or join)
+                                ---Player
+                                ---Skills
+                                ---Level
          */
          
         public static final String MOD_ID = "polyblockz_skills";
